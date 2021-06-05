@@ -63,4 +63,6 @@ email: ""
 highlight_name: false
 ---
 
-Hi! My name is Jean-Félix (JF) Brouillette and I'm a Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/)
+I am a Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/).
+
+Outside of academics, I enjoy fishing, canoeing and bagels!
