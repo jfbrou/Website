@@ -21,12 +21,16 @@ subtitle:
 feature:
 - description:
   icon: python
-  icon_pack: fab
+  icon_pack: custom
   name: Python
 - description:
   icon: julia
   icon_pack: custom
   name: Julia
+- description:
+  icon: matlab
+  icon_pack: custom
+  name: Matlab
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
