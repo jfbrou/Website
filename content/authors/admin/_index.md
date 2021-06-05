@@ -20,6 +20,7 @@ bio: Hi! My name is Jean-Félix Brouillette and I'm a Ph.D. candidate in economi
 interests:
 - Macroeconomics
 - Economic growth
+- Misallocation
 
 # Education to show in About widget
 education:
