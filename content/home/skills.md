@@ -25,7 +25,7 @@ feature:
   name: Python
 - description:
   icon: julia
-  icon_pack:
+  icon_pack: custom
   name: Julia
 
 # Uncomment to use emoji icons.
