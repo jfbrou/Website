@@ -43,7 +43,7 @@ research: true
 # Custom links (uncomment lines below)
 # links:
 - name: Slides
-  url: slides.pdf
+  url: uploads/dignity_slides.pdf
 
 url_pdf: ''
 url_code: ''
