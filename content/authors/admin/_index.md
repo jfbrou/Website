@@ -14,7 +14,7 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! My name is Jean-Félix Brouillette and I'm a Ph.D. candidate in economics at Stanford University working with Pete Klenow and Chad Jones.
+bio: Hi! I'm a Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/).
 
 # Interests to show in About widget
 interests:
