@@ -30,7 +30,7 @@ publication_types: ["3"]
 publication: In *Wowchemy Conference*
 publication_short: In *ICW*
 
-abstract: bleh 52.
+abstract: bleh 52 \% \:.
 
 # Summary. An optional shortened abstract.
 summary:
