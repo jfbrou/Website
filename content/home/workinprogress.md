@@ -28,9 +28,9 @@ content:
   filters:
     tag: ''
     category: ''
-    publication_type: ["0"]
+    publication_type: "0"
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
