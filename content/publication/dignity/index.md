@@ -41,11 +41,13 @@ tags: []
 research: true
 
 # Custom links (uncomment lines below)
-# links:
+links:
 - name: Slides
-  url: uploads/dignity_slides.pdf
+  url: http://klenow.com/BrouilletteJonesKlenow_Race_and_Welfare_Slides.pdf
+- name: Github
+  url: https://github.com/jfbrou/Dignity
 
-url_pdf: ''
+url_pdf: http://klenow.com/BrouilletteJonesKlenow_Race_and_Welfare.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
