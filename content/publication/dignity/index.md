@@ -37,9 +37,8 @@ summary:
 
 tags: []
 
-# Display this page in widget?
+# Display this page in widgets?
 workingpapers: true
-workinprogress: false
 
 # Custom links (uncomment lines below)
 links:
