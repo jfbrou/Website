@@ -37,8 +37,8 @@ summary:
 
 tags: []
 
-# Display this page in the Featured widget?
-research: true
+# Display this page in the Working Papers widget?
+workingpapers: true
 
 # Custom links (uncomment lines below)
 links:
