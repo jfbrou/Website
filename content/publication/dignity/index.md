@@ -42,8 +42,8 @@ research: true
 
 # Custom links (uncomment lines below)
 # links:
-# - name: Custom Link
-#   url: http://example.org
+- name: Slides
+  url: slides.pdf
 
 url_pdf: ''
 url_code: ''
