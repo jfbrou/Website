@@ -1,5 +1,5 @@
 ---
-title: "Race and Economic Well Being in the United States"
+title: "Race and Economic Well-Being in the United States"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
