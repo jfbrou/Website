@@ -1,6 +1,6 @@
 ---
 # Display name
-title: JF Brouillette
+title: Jean-Felix Brouillette
 
 # Is this the primary user of the site?
 superuser: true
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Economics
-    institution: Stanford University
+    institution: [Stanford University](https://www.stanford.edu/)
     year: 2024
 
 # Social/Academic Networking
