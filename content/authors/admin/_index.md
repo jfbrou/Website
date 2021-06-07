@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: Ph.D. in Economics
-    institution: [Stanford University](https://www.stanford.edu/)
+    institution: Stanford University
     year: 2024
 
 # Social/Academic Networking
