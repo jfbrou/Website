@@ -6,8 +6,8 @@ title: "Race and Economic Well-Being in the United States"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
-- Chad Jones
-- Pete Klenow
+- [Chad Jones](http://web.stanford.edu/~chadj/)
+- [Pete Klenow](http://www.klenow.com/)
 
 # Author notes (optional)
 author_notes:
