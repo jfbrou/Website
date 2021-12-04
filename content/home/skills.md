@@ -24,17 +24,13 @@ feature:
   icon_pack: custom
   name: Python
 - description:
-  icon: julia
-  icon_pack: custom
-  name: Julia
-- description:
-  icon: matlab
-  icon_pack: custom
-  name: Matlab
-- description:
   icon: shell
   icon_pack: custom
   name: Shell
+- description:
+  icon: git
+  icon_pack: custom
+  name: Git
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
