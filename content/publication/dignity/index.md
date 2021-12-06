@@ -42,8 +42,6 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: Slides
-  url: http://klenow.com/BrouilletteJonesKlenow_Race_and_Welfare_Slides.pdf
 - name: Github
   url: https://github.com/jfbrou/Dignity
 
