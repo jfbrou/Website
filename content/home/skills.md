@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Skills
+title: How I Work
 subtitle:
 
 # Showcase personal skills or business features.
@@ -35,6 +35,10 @@ feature:
   icon: julia
   icon_pack: custom
   name: Julia
+- description:
+  icon: vscode
+  icon_pack: custom
+  name: VS Code
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
