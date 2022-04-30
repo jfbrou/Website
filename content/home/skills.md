@@ -39,6 +39,10 @@ feature:
   icon: vscode
   icon_pack: custom
   name: VS Code
+- description:
+  icon: latex
+  icon_pack: custom
+  name: LaTeX
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
