@@ -64,4 +64,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/). Outside of academics, I enjoy fishing, canoeing and bagels!
+I am a Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/). Outside of academics, I enjoy fishing and canoeing!

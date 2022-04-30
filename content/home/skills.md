@@ -31,6 +31,10 @@ feature:
   icon: git
   icon_pack: custom
   name: Git
+- description:
+  icon: julia
+  icon_pack: custom
+  name: Julia
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
