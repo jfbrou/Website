@@ -32,10 +32,6 @@ feature:
   icon_pack: custom
   name: Git
 - description:
-  icon: julia
-  icon_pack: custom
-  name: Julia
-- description:
   icon: vscode
   icon_pack: custom
   name: VS Code
