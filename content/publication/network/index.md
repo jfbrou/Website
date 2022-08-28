@@ -6,6 +6,7 @@ title: "Double Marginalization and R&D Misallocation"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- [Mohamad Adhami](https://adhami.sites.stanford.edu/)
 
 # Author notes (optional)
 author_notes:
