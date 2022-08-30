@@ -56,7 +56,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-weight: 40
+# weight: 40
 image:
   caption: 'The figure shows the decomposition of consumption-equivalent welfare for Black relative to White Americans from 1984 to 2019. Author calculations using data from the CDC's NVSS and the Department of Labor's CPS and CEX Surveys.
   focal_point: center
