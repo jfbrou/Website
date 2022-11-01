@@ -1,5 +1,5 @@
 ---
-title: "Double Marginalization and R&D Misallocation"
+title: "Markup Dispersion and R&D Misallocation"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
