@@ -20,6 +20,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description:
+  icon: julia
+  icon_pack: custom
+  name: Julia
+- description:
   icon: python
   icon_pack: custom
   name: Python
