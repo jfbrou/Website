@@ -20,7 +20,7 @@ bio: Hi! I'm a Ph.D. candidate in economics at Stanford University working with 
 interests:
 - Macroeconomics
 - Economic growth
-- Misallocation
+- Firm dynamics
 
 # Education to show in About widget
 education:
@@ -70,4 +70,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a 5th year Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/). Outside of academics, I enjoy whitewater canoeing and fishing!
+I am a 5th year Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/).
