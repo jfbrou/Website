@@ -1,5 +1,5 @@
 ---
-title: "The Dynamic Consequences of Monopoly Power"
+title: "The Consequences of Monopoly Power for Economic Growth"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
