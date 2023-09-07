@@ -27,10 +27,10 @@ publication_types: ["3"]
 publication: Working Paper
 publication_short:
 
-abstract: 'In 1976, 4% of inventors in the U.S. were women, and by 2020, that fraction had only moved up to 12%. Under the natural assumption that there are no intrinsic differences in inventive potential across genders, the scarcity of women in innovation reveals that the U.S. is missing out on some of its brightest minds. This raises two questions: (1) What are the barriers faced by those lost Jennifer Doudnas? and (2) How costly is the resulting (mis)allocation of inventive talent for aggregate productivity and welfare? To tackle those questions, I develop a theory of semi-endogenous growth in which individuals with heterogeneous talent can choose between a career in research or production. However, three gendered barriers can deter or prevent women from pursuing their comparative advantage. They may face different forms of discrimination in the labor market, be confronted with higher obstacles to human capital formation, lack the role models and opportunities to become innovators. Interpreting micro-level data on the universe of U.S. inventors through the lens of this framework, I find that the underrepresentation of women in innovation is virtually all due to a lack of exposure to innovation. Women and men inventors are just too similarly productive and educated for distortions operating through selection or human capital to play a prominent role. Taking advantage of the structure of this theory, I find that lifting all barriers to female innovation would increase U.S. income per person by 6.4% in the long-run and be equivalent to permanently raising everyone's consumption by 2.1% when accounting for transition dynamics.'
+abstract: "In 1976, 4% of inventors in the U.S. were women, and by 2020, that fraction had only moved up to 12%. Under the natural assumption that there are no intrinsic differences in inventive potential across genders, the scarcity of women in innovation reveals that the U.S. is missing out on some of its brightest minds. This raises two questions: (1) What are the barriers faced by those lost Jennifer Doudnas? and (2) How costly is the resulting (mis)allocation of inventive talent for aggregate productivity and welfare? To tackle those questions, I develop a theory of semi-endogenous growth in which individuals with heterogeneous talent can choose between a career in research or production. However, three gendered barriers can deter or prevent women from pursuing their comparative advantage. They may face different forms of discrimination in the labor market, be confronted with higher obstacles to human capital formation, lack the role models and opportunities to become innovators. Interpreting micro-level data on the universe of U.S. inventors through the lens of this framework, I find that the underrepresentation of women in innovation is virtually all due to a lack of exposure to innovation. Women and men inventors are just too similarly productive and educated for distortions operating through selection or human capital to play a prominent role. Taking advantage of the structure of this theory, I find that lifting all barriers to female innovation would increase U.S. income per person by 6.4% in the long-run and be equivalent to permanently raising everyone's consumption by 2.1% when accounting for transition dynamics."
 
 # Summary. An optional shortened abstract.
-summary: ' '
+summary: ''
 
 tags: []
 
@@ -55,7 +55,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 weight: 10
 image:
-  caption: "This figure plots the representation of women among lawyers, doctors, engineers and inventors over the last 50 years."
+  caption: This figure plots the representation of women among lawyers, doctors, engineers and inventors over the last 50 years.
   focal_point: center
 
 # Associated Projects (optional).
