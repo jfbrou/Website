@@ -1,5 +1,5 @@
 ---
-title: "The Consequences of Monopoly Power for Economic Growth"
+title: "Markups, Market Size and Distorted Economic Growth"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,10 +27,10 @@ publication_types: ["0"]
 publication: Work in Progress
 publication_short:
 
-abstract: "In this project, we study the welfare consequences of product market power in a dynamic setting of endogenous economic growth through costly productivity improvements by monopolistic firms. In partial equilibrium, we show that (1) social incentives for productivity improvements always exceed the private incentives of a monopolistic firm and (2) the extent to which more or less productive firms underinvest in marginal cost reductions depends on demand primitives. With those insights in mind, we develop a general equilibrium theory with three key ingredients: (1) endogenous innovation by monopolistically competitive firms, (2) markup heterogeneity from non-isoelastic residual demand curves and (3) selection from endogenous entry and exit. In this setting, both the aggregate and cross-firm allocation of production and innovation resources may be inefficient, due to the level and dispersion of markups, respectively. We aim to estimate the structural parameters of our theory using firm-level administrative data from France. To quantify the welfare cost of monopoly power, we will compare the equilibrium allocation before and after the implementation of transfers that entice firms to price at marginal cost and therefore eliminate product market distortions."
+abstract: "We study the dynamic consequences of markups for long-run economic growth in a general equilibrium theory of firm-driven endogenous technological change. In this theory, differentiated firms engage in monopolistic competition, charge heterogeneous markups and make forward-looking investments to improve their process efficiency. Using firm-level administrative data from France, we quantify the extent to which heterogeneous markups differentially distort firms' incentives to invest in research and development. The introduction of size-dependent transfers inciting firms to operate at the efficient scale increases the long-run growth rate of aggregate output by 1.5 percentage points. ZZZ."
 
 # Summary. An optional shortened abstract.
-summary: "With [Mohamad Adhami](https://adhami.sites.stanford.edu/) and Emma Rockall \n\n What are the welfare consequences of product market power in a dynamic setting of endogenous economic growth?"
+summary: "With [Mohamad Adhami](https://adhami.sites.stanford.edu/) and Emma Rockall \n\n What are the consequences of markups for long-run economic growth?"
 
 tags: []
 
@@ -73,4 +73,4 @@ projects: []
 slides: ""
 ---
 
-In this project, we study the welfare consequences of product market power in a dynamic setting of endogenous economic growth through costly productivity improvements by monopolistic firms. In partial equilibrium, we show that (1) social incentives for productivity improvements always exceed the private incentives of a monopolistic firm and (2) the extent to which more or less productive firms underinvest in marginal cost reductions depends on demand primitives. With those insights in mind, we develop a general equilibrium theory with three key ingredients: (1) endogenous innovation by monopolistically competitive firms, (2) markup heterogeneity from non-isoelastic residual demand curves and (3) selection from endogenous entry and exit. In this setting, both the aggregate and cross-firm allocation of production and innovation resources may be inefficient, due to the level and dispersion of markups, respectively. We aim to estimate the structural parameters of our theory using firm-level administrative data from France. To quantify the welfare cost of monopoly power, we will compare the equilibrium allocation before and after the implementation of transfers that entice firms to price at marginal cost and therefore eliminate product market distortions.
+We study the dynamic consequences of markups for long-run economic growth in a general equilibrium theory of firm-driven endogenous technological change. In this theory, differentiated firms engage in monopolistic competition, charge heterogeneous markups and make forward-looking investments to improve their process efficiency. Using firm-level administrative data from France, we quantify the extent to which heterogeneous markups differentially distort firms' incentives to invest in research and development. The introduction of size-dependent transfers inciting firms to operate at the efficient scale increases the long-run growth rate of aggregate output by 1.5 percentage points. ZZZ.

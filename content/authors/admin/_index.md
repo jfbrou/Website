@@ -27,7 +27,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: Stanford University
-    year: 2024
+    year: 2024 (expected)
   - course: M.Sc. in Economics
     institution: HEC Montréal
     year: 2018
