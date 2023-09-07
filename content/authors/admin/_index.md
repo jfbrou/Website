@@ -14,7 +14,7 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hi! I'm a Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/).
+bio: I am a 6th year Ph.D. candidate in economics at Stanford University.
 
 # Interests to show in About widget
 interests:
@@ -70,4 +70,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a 5th year Ph.D. candidate in economics at Stanford University working with [Pete Klenow](http://www.klenow.com/) and [Chad Jones](http://web.stanford.edu/~chadj/).
+I am a 6th year Ph.D. candidate in economics at Stanford University and will be on the job market during the 2023-2024 academic year. I study macroeconomics with a focus on economic growth and firm dynamics. You can find my [CV here](insert_link_to_your_CV). Please feel free to contact me via [jfbrou@stanford.edu](mailto:jfbrou@stanford.edu).
