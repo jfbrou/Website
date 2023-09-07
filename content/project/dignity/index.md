@@ -58,7 +58,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder.
 weight: 10
 image:
-  caption: ""
+  caption: "This figure shows the decomposition of consumption-equivalent welfare for Black relative to White Americans from 1984 to 2019."
   focal_point: center
 
 # Associated Projects (optional).
