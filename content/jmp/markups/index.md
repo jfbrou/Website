@@ -30,7 +30,7 @@ publication_short:
 abstract: "We study the dynamic consequences of markups for long-run economic growth in a general equilibrium theory of firm-driven endogenous technological change. In this theory, differentiated firms engage in monopolistic competition, charge heterogeneous markups and make forward-looking investments to improve their process efficiency. Using firm-level administrative data from France, we quantify the extent to which heterogeneous markups differentially distort firms' incentives to invest in research and development. The introduction of size-dependent transfers inciting firms to operate at the efficient scale increases the long-run growth rate of aggregate output by 1.5 percentage points. ZZZ."
 
 # Summary. An optional shortened abstract.
-summary: "With [Mohamad Adhami](https://adhami.sites.stanford.edu/) and Emma Rockall \n\n What are the consequences of markups for long-run economic growth?"
+summary: "With [Mohamad Adhami](https://adhami.sites.stanford.edu/) and Emma Rockall"
 
 tags: []
 
