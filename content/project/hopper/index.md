@@ -53,10 +53,10 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
+weight: 10
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
+  caption: "This figure plots the representation of women among lawyers, doctors, engineers and inventors over the last 50 years."
+  focal_point: center
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
