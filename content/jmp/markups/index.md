@@ -21,13 +21,13 @@ publishDate: "2023-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Work in Progress
 publication_short:
 
-abstract: "We study the dynamic consequences of markups for long-run economic growth in a general equilibrium theory of firm-driven endogenous technological change. In this theory, differentiated firms engage in monopolistic competition, charge heterogeneous markups and make forward-looking investments to improve their process efficiency. Using firm-level administrative data from France, we quantify the extent to which heterogeneous markups differentially distort firms' incentives to invest in research and development. The introduction of size-dependent transfers inciting firms to operate at the efficient scale increases the long-run growth rate of aggregate output by 1.5 percentage points. ZZZ."
+abstract: "We study the dynamic consequences of markups for long-run economic growth in a general equilibrium theory of firm-driven endogenous technological change. In this environment, differentiated firms engage in monopolistic competition, charge heterogeneous markups and make forward-looking investments in R&D to improve their process efficiency. Markups constrain the scale at which firms operate and therefore distort their ``market size'' incentive to invest in R&D. With dispersion in markups, both the aggregate and cross-firm allocations of such investments are thus inefficient. Using firm-level administrative data from France to discipline our model, we find that transfers inciting firms to operate at the efficient scale increase the long-run growth rate of total-factor productivity by 1.5 percentage points. Our analysis shows that dispersion in markups, rather than their average level, stands as the main obstacle to economic growth."
 
 # Summary. An optional shortened abstract.
 summary: "With [Mohamad Adhami](https://adhami.sites.stanford.edu/) and Emma Rockall"
@@ -73,4 +73,4 @@ projects: []
 slides: ""
 ---
 
-We study the dynamic consequences of markups for long-run economic growth in a general equilibrium theory of firm-driven endogenous technological change. In this theory, differentiated firms engage in monopolistic competition, charge heterogeneous markups and make forward-looking investments to improve their process efficiency. Using firm-level administrative data from France, we quantify the extent to which heterogeneous markups differentially distort firms' incentives to invest in research and development. The introduction of size-dependent transfers inciting firms to operate at the efficient scale increases the long-run growth rate of aggregate output by 1.5 percentage points. ZZZ.
+We study the dynamic consequences of markups for long-run economic growth in a general equilibrium theory of firm-driven endogenous technological change. In this environment, differentiated firms engage in monopolistic competition, charge heterogeneous markups and make forward-looking investments in R&D to improve their process efficiency. Markups constrain the scale at which firms operate and therefore distort their ``market size'' incentive to invest in R&D. With dispersion in markups, both the aggregate and cross-firm allocations of such investments are thus inefficient. Using firm-level administrative data from France to discipline our model, we find that transfers inciting firms to operate at the efficient scale increase the long-run growth rate of total-factor productivity by 1.5 percentage points. Our analysis shows that dispersion in markups, rather than their average level, stands as the main obstacle to economic growth.
