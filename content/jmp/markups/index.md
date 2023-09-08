@@ -6,6 +6,8 @@ title: "Markups, Market Size and Distorted Economic Growth"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Mohamad Adhami
+- Emma Rockall
 
 # Author notes (optional)
 author_notes:
@@ -27,7 +29,7 @@ publication_types: ["3"]
 publication: Work in Progress
 publication_short:
 
-abstract:
+abstract: "We study the dynamic consequences of markups for long-run economic growth in a general equilibrium theory of firm-driven endogenous technological change. In this environment, differentiated firms engage in monopolistic competition, charge heterogeneous markups and make forward-looking investments in R&D to improve their process efficiency. Markups constrain the scale at which firms operate and therefore distort their ``market size'' incentive to invest in R&D. With dispersion in markups, both the aggregate and cross-firm allocations of such investments are thus inefficient. Using firm-level administrative data from France to discipline our model, we find that transfers inciting firms to operate at the efficient scale increase the long-run growth rate of total-factor productivity by 1.5 percentage points. Our analysis shows that dispersion in markups, rather than their average level, stands as the main obstacle to economic growth."
 
 # Summary. An optional shortened abstract.
 summary: "With [Mohamad Adhami](https://adhami.sites.stanford.edu/) and Emma Rockall"
