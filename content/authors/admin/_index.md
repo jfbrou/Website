@@ -70,4 +70,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a 6th year Ph.D. candidate in economics at Stanford University and will be on the job market during the 2023-2024 academic year. I study macroeconomics with a focus on economic growth and firm dynamics.
+I am a 6th year Ph.D. candidate in economics at Stanford University. I study macroeconomics with a focus on economic growth and firm dynamics.
+
+**I am on the job market during the 2023-2024 academic year.**
+
+You can find my [CV](static/uploads/cv.pdf) here. Please feel free to contact me via [jfbrou@stanford.edu](mailto:jfbrou@stanford.edu).
+
