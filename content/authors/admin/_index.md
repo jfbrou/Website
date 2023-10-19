@@ -74,5 +74,5 @@ I am a 6th year Ph.D. candidate in economics at Stanford University. I study mac
 
 **I am on the job market during the 2023-2024 academic year.**
 
-You can find my [CV](static/uploads/cv.pdf) here. Please feel free to contact me via [jfbrou@stanford.edu](mailto:jfbrou@stanford.edu).
+You can find my [CV](https://www.jfbrouillette.com/uploads/CV.pdf) here. Please feel free to contact me via [jfbrou@stanford.edu](mailto:jfbrou@stanford.edu).
 
