@@ -14,7 +14,7 @@ organizations:
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a 6th year Ph.D. candidate in economics at Stanford University.
+bio: I am a Ph.D. candidate in economics at Stanford University.
 
 # Interests to show in About widget
 interests:
@@ -70,9 +70,9 @@ email: ""
 highlight_name: false
 ---
 
-I am a 6th year Ph.D. candidate in economics at Stanford University. I study macroeconomics with a focus on economic growth and firm dynamics.
+I am a Ph.D. candidate in economics at Stanford University. I study macroeconomics with a focus on economic growth and firm dynamics.
 
 **I am on the job market during the 2023-2024 academic year.**
 
-You can find my [CV](https://www.jfbrouillette.com/uploads/CV.pdf) here. Please feel free to contact me via [jfbrou@stanford.edu](mailto:jfbrou@stanford.edu).
+You can find my [CV](https://www.jfbrouillette.com/uploads/CV.pdf) and [Job Market Paper](https://www.jfbrouillette.com/uploads/Markups/Brouillette_JMP.pdf) here. Please feel free to contact me via [jfbrou@stanford.edu](mailto:jfbrou@stanford.edu).
 

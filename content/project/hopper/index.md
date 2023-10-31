@@ -42,7 +42,7 @@ featured: true
 #- name:
 #  url:
 
-url_pdf: ''
+url_pdf: uploads/Hopper/draft.pdf
 url_code: ''
 url_dataset: ''
 url_poster: ''
