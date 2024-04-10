@@ -6,34 +6,15 @@ title: Jean-Felix Brouillette
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. candidate
+role: Assistant Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: HEC Montr&eacute al
+  url: https://www.hec.ca/en/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. candidate in economics at Stanford University.
-
-# Interests to show in About widget
-interests:
-- Macroeconomics
-- Economic growth
-- Firm dynamics
-
-# Education to show in About widget
-education:
-  courses:
-  - course: Ph.D. in Economics
-    institution: Stanford University
-    year: 2024 (expected)
-  - course: M.Sc. in Economics
-    institution: HEC Montréal
-    year: 2018
-  - course: B.B.A. in Economics
-    institution: HEC Montréal
-    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
