@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jean-Felix Brouillette
+title: Jean-F&eacute;lix Brouillette
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Assistant Professor
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HEC Montr&eacute al
+- name: HEC Montr&eacute;al
   url: https://www.hec.ca/en/
 
 # Short bio (displayed in user profile at end of posts)
@@ -51,9 +51,5 @@ email: ""
 highlight_name: false
 ---
 
-I am a Ph.D. candidate in economics at Stanford University. I study macroeconomics with a focus on economic growth and firm dynamics.
-
-**I am on the job market during the 2023-2024 academic year.**
-
-You can find my [CV](https://www.jfbrouillette.com/uploads/CV.pdf) and [Job Market Paper](https://www.jfbrouillette.com/uploads/Markups/Brouillette_JMP.pdf) here. Please feel free to contact me via [jfbrou@stanford.edu](mailto:jfbrou@stanford.edu).
+I am a Ph.D. candidate in economics at Stanford University. I will join HEC Montr&eacute;al as an Assistant Professor of Economics in June 2024. My research interests are in macroeconomics with a focus on economic growth and firm dynamics. Please feel free to contact me via [jfbrou@stanford.edu](mailto:jfbrou@stanford.edu).
 
