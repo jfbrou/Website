@@ -7,12 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Job Market Paper
-    url: '#jmp'
-    weight: 20
   - name: Working Papers
     url: '#workingpapers'
-    weight: 30
+    weight: 20
   - name: CV
     url: uploads/CV.pdf
-    weight: 40
+    weight: 30
