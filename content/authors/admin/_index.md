@@ -16,6 +16,23 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a Ph.D. candidate in economics at Stanford University.
 
+interests:
+- Macroeconomics
+- Economic growth
+- Firm dynamics
+
+education:
+  courses:
+  - course: Ph.D. in Economics
+    institution: Stanford University
+    year: 2024
+  - course: M.Sc. in Economics
+    institution: HEC Montréal
+    year: 2018
+  - course: B.B.A in Economics
+    institution: HEC Montréal
+    year: 2016
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the

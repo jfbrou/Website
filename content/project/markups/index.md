@@ -26,7 +26,7 @@ publishDate: "2023-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Work in Progress
+publication: Working Paper
 publication_short:
 
 abstract: "We study the consequences of markups for long-run economic growth in a model of firm-driven endogenous technological change. In this framework, differentiated firms engage in monopolistic competition, charge heterogeneous markups, and make forward-looking investments in R&D to improve their process efficiency. Markups distort the scale at which these firms operate and, therefore, affect their incentives to invest in R&D. With dispersion in markups, both the aggregate and cross-firm allocations of such investments are distorted. Using firm-level administrative data from France to discipline our model, we find that correcting the product market distortions induced by markups increases the long-run growth rate of productivity by 1.2 percentage points per year. Nearly 75% of this faster productivity growth can be achieved by simply reallocating R&D resources across firms, revealing that the dispersion in markups, rather than their average level, is more detrimental to economic growth."
