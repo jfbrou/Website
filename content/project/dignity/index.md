@@ -56,7 +56,7 @@ url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-weight: 10
+weight: 30
 image:
   caption:
   focal_point: center
