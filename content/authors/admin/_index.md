@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jean-F&eacute;lix Brouillette
+title: Jean-Félix Brouillette
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: HEC Montr&eacute;al
+- name: HEC Montréal
   url: https://www.hec.ca/en/
 
 # Short bio (displayed in user profile at end of posts)
