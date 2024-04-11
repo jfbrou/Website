@@ -11,5 +11,5 @@ main:
     url: '#workingpapers'
     weight: 20
   - name: CV
-    url: uploads/CV.pdf
+    url: uploads/cv/cv.pdf
     weight: 30
