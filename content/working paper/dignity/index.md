@@ -74,4 +74,6 @@ projects: []
 slides: ""
 ---
 
+We construct a measure of consumption-equivalent welfare for Black and White Americans. Our statistic incorporates life expectancy, consumption, leisure, and inequality. Based on this incomplete list of factors, welfare for Black Americans was 43% of that for White Americans in 1984 and rose to 59% by 2019. Going back further in time (albeit with more limited data), the gap was even larger, with Black welfare equal to just 29% of White welfare in 1940. On the one hand, there has been remarkable progress for Black Americans: the level of their consumption-equivalent welfare increased by a factor of 26 between 1940 and 2019, when aggregate consumption per person rose a more modest 5-fold. On the other hand, despite this remarkable progress, the welfare gap in 2019 remains disconcertingly large. The gap appears even larger when we make rough attempts to incorporate omitted factors such as morbidity, incarceration, and unemployment.
+
 With [Chad Jones](http://web.stanford.edu/~chadj/) and [Pete Klenow](http://www.klenow.com/).
