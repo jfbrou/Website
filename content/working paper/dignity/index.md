@@ -40,8 +40,8 @@ featured: true
 
 # Custom links (uncomment lines below)
 links:
-- name: GitHub
-  url: https://github.com/jfbrou/Dignity
+#- name: GitHub
+#  url: https://github.com/jfbrou/Dignity
 
 url_pdf: http://klenow.com/BrouilletteJonesKlenow_Race_and_Welfare.pdf
 url_code: ''
