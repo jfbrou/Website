@@ -11,8 +11,9 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- ""
-- ""
+- "HEC Montréal"
+- "Stanford University"
+- "Stanford University"
 
 date: "2021-01-01T00:00:00Z"
 doi: ""

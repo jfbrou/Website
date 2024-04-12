@@ -9,7 +9,7 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- ""
+- "HEC Montréal"
 
 date: "2023-01-01T00:00:00Z"
 doi: ""
